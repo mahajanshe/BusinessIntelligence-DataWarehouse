@@ -12,5 +12,5 @@ Analysis 1: a)	Product Hierarchy Contribution of Sales
 
 This analysis depicts total sales contribution by Product Hierarchy (Product Name, Product Category, Product SubCategory)
 
-E:\InternetSalesTableau\BusinessIntelligence-DataWarehouse\images\ProductSales
+![](images/ProductSales.png?raw=true)
 
