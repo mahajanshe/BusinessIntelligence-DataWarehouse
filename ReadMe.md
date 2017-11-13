@@ -18,32 +18,46 @@ This analysis depicts total sales contribution by Product Hierarchy (Product Nam
 ##Analysis 2
 
 Comparison of Internet Sales Amount in all the Months of 2014, 2015 and 2016
+![](images/Year&Monthly.PNG)
 
 ##Analysis 3
 
 This analysis depicts total sales contribution by Geography Hierarchy (Country Rgion, State, City, Postal Code) on Symbol Maps
+![](images/GeoHierarchy.PNG)
 
 ##Analysis 4
 
 This analysis depicts Product Sales by Geography (Product Hierarchy by Geo Hierarchy)
+![](images/ProdGeo.PNG)
 
 ##Analysis 5
 
 Amount of Profit made by Sales Terrioty group and Country is depicted in this visualization
 
+![](images/ProfitGeo.PNG)
+
 ##Analysis 6
 
 Below are the names of top 20 customers of internet sales
+
+![](images/TopCust.PNG)
 
 ##Analysis 7
 
 Shows the effect of Education ans Occuption of Customers over the Internet Sales
 
+![](images/edu&Occu.PNG)
+
 ##DashBoard
 
 The following dashboard can collectively show internet sales by adventure works in a glance with respect to Product Hierarchy, Geo Hierarchy, Sales Profit and effect of Customer's education and profession over the Total Internet Sales
 
+![](images/Dash1.PNG)
+
+
 ##Story
 I create a story using this beautiful visualization tool 'Tableau' which gives me the entire gist of how Internet Sales differ over Products, Geography and Time Period
+
+![](images/Story1.PNG)
 
 This analysis can make us conclude that Road Bikes were highly sold over Internet in December 2016 in the State of CA, United States
