@@ -14,6 +14,7 @@ Product Hierarchy Contribution of Sales
 
 This analysis depicts total sales contribution by Product Hierarchy (Product Name, Product Category, Product SubCategory)
 
+![](images/ProductSales.PNG)
 ##Analysis 2
 
 Comparison of Internet Sales Amount in all the Months of 2014, 2015 and 2016
