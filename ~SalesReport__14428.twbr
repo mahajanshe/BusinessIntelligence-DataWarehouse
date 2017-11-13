@@ -122,7 +122,7 @@
       <column datatype='integer' name='[Number of Records]' role='measure' type='quantitative' user:auto-column='numrec'>
         <calculation class='tableau' formula='1' />
       </column>
-      <layout dim-ordering='alphabetic' dim-percentage='0.521538' measure-ordering='alphabetic' measure-percentage='0.478462' show-structure='true' />
+      <layout dim-ordering='alphabetic' dim-percentage='0.52' measure-ordering='alphabetic' measure-percentage='0.48' show-structure='true' />
       <semantic-values>
         <semantic-value key='[Country].[Name]' value='&quot;United States&quot;' />
       </semantic-values>
@@ -6071,7 +6071,7 @@
     <window class='worksheet' name='f.ProductProfitBySalesTe'>
       <cards>
         <edge name='left'>
-          <strip size='250'>
+          <strip size='352'>
             <card type='pages' />
             <card type='filters' />
             <card type='marks' />
@@ -6207,7 +6207,7 @@
         </edge>
       </cards>
     </window>
-    <window class='worksheet' maximized='true' name='i.SalesByOccupation'>
+    <window class='worksheet' name='i.SalesByOccupation'>
       <cards>
         <edge name='left'>
           <strip size='250'>
@@ -6232,7 +6232,7 @@
     <window class='worksheet' name='i'>
       <cards>
         <edge name='left'>
-          <strip size='200'>
+          <strip size='250'>
             <card type='pages' />
             <card type='filters' />
             <card type='marks' />
@@ -6254,7 +6254,7 @@
     <window class='worksheet' name='j'>
       <cards>
         <edge name='left'>
-          <strip size='200'>
+          <strip size='250'>
             <card type='pages' />
             <card type='filters' />
             <card type='marks' />
@@ -6276,7 +6276,7 @@
     <window class='worksheet' name='j.SalesByEdu&amp;Ocu9'>
       <cards>
         <edge name='left'>
-          <strip size='200'>
+          <strip size='250'>
             <card type='pages' />
             <card type='filters' />
             <card type='marks' />
@@ -6308,11 +6308,11 @@
           <zoom type='entire-view' />
         </viewpoint>
       </viewpoints>
-      <active id='11' />
+      <active id='-1' />
     </window>
-    <window class='dashboard' name='Story 1'>
+    <window class='dashboard' maximized='true' name='Story 1'>
       <viewpoints />
-      <active id='5' />
+      <active id='-1' />
     </window>
   </windows>
 </workbook>
